@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ce3fa3fa-e28c-4a16-9011-ad9eb451aa0a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 377,
+  "height": 332,
+  "platformSettings": {},
+  "subMetas": {
+    "巨石山古0": {
+      "ver": "1.0.4",
+      "uuid": "a0dd1ba7-fb4f-4ad9-9309-a85c1614c200",
+      "rawTextureUuid": "ce3fa3fa-e28c-4a16-9011-ad9eb451aa0a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 377,
+      "height": 332,
+      "rawWidth": 377,
+      "rawHeight": 332,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "36df976f-f738-49c2-acc9-ac13d411339c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 489,
+  "height": 301,
+  "platformSettings": {},
+  "subMetas": {
+    "雪山之巅": {
+      "ver": "1.0.4",
+      "uuid": "e8496811-ab43-4fd5-8af5-0a2a52977699",
+      "rawTextureUuid": "36df976f-f738-49c2-acc9-ac13d411339c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 489,
+      "height": 301,
+      "rawWidth": 489,
+      "rawHeight": 301,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

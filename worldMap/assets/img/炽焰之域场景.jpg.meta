@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "56e91059-3ade-41b2-a8b8-624f32ab29cf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1140,
+  "height": 640,
+  "platformSettings": {},
+  "subMetas": {
+    "炽焰之域场景": {
+      "ver": "1.0.4",
+      "uuid": "660c5721-0b7e-4e7f-a1c5-318a5371d898",
+      "rawTextureUuid": "56e91059-3ade-41b2-a8b8-624f32ab29cf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1140,
+      "height": 640,
+      "rawWidth": 1140,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

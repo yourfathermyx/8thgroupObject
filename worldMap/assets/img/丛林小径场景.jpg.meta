@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "30d402f4-ec38-4724-9974-910c7764c92e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1140,
+  "height": 640,
+  "platformSettings": {},
+  "subMetas": {
+    "丛林小径场景": {
+      "ver": "1.0.4",
+      "uuid": "69c96532-8a35-4128-bf76-a7b7a130904f",
+      "rawTextureUuid": "30d402f4-ec38-4724-9974-910c7764c92e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1140,
+      "height": 640,
+      "rawWidth": 1140,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

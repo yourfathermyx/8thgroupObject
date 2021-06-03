@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "493403a0-a12c-46ac-8c77-39f82979f512",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 355,
+  "height": 323,
+  "platformSettings": {},
+  "subMetas": {
+    "炽焰之域": {
+      "ver": "1.0.4",
+      "uuid": "dd79d442-aa87-4588-8fd5-45044c26c53e",
+      "rawTextureUuid": "493403a0-a12c-46ac-8c77-39f82979f512",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 355,
+      "height": 323,
+      "rawWidth": 355,
+      "rawHeight": 323,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

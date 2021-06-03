@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f170e321-1246-4ccd-92ae-2d0d258ce885",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 214,
+  "height": 228,
+  "platformSettings": {},
+  "subMetas": {
+    "丛林小径0": {
+      "ver": "1.0.4",
+      "uuid": "300a5e87-ad6d-4e67-851f-5b8999ffdc25",
+      "rawTextureUuid": "f170e321-1246-4ccd-92ae-2d0d258ce885",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 213,
+      "height": 228,
+      "rawWidth": 214,
+      "rawHeight": 228,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

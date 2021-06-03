@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fa6bd3aa-1dbb-466b-8735-a9e140096f43",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1140,
+  "height": 640,
+  "platformSettings": {},
+  "subMetas": {
+    "巨石山古场景": {
+      "ver": "1.0.4",
+      "uuid": "34a4a0c0-095a-49df-a853-86f69bf91bc1",
+      "rawTextureUuid": "fa6bd3aa-1dbb-466b-8735-a9e140096f43",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1140,
+      "height": 640,
+      "rawWidth": 1140,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

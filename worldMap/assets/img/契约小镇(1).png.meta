@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7e60285c-bf52-40f5-89a7-f5df3ba36aee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 267,
+  "height": 145,
+  "platformSettings": {},
+  "subMetas": {
+    "契约小镇(1)": {
+      "ver": "1.0.4",
+      "uuid": "9b1e8ffa-31a5-43ca-9e47-74a7e440db33",
+      "rawTextureUuid": "7e60285c-bf52-40f5-89a7-f5df3ba36aee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 267,
+      "height": 145,
+      "rawWidth": 267,
+      "rawHeight": 145,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
