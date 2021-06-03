@@ -1,0 +1,46 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "E1death",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8edbae2b-c894-489e-9153-967049b3b696"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "8edbae2b-c894-489e-9153-967049b3b696"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "333a2c3f-07c6-4dc1-b59f-5991efeda1fb"
+            }
+          }
+        ]
+      }
+    },
+    "paths": {
+      "bar/curHp": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": []
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

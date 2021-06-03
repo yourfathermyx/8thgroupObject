@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="10" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="地块_23" tilewidth="64" tileheight="64">
+  <image source="地块_23.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="2" name="地块_09" tilewidth="64" tileheight="64">
+  <image source="地块_09.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="3" name="地块_16" tilewidth="64" tileheight="64">
+  <image source="地块_16.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="4" name="tree" tilewidth="64" tileheight="64">
+  <image source="tree.png" width="74" height="103"/>
+ </tileset>
+ <tileset firstgid="5" name="地块_86" tilewidth="64" tileheight="64">
+  <image source="地块_86.png" width="64" height="64"/>
+ </tileset>
+ <layer name="path" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjagBkLJkUvPj66+eTopcRebG6gxF5s6igJP3wAAE7AAFU=
+  </data>
+ </layer>
+ <layer name="barriers" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYmBgYBrCGBsgRS8+Prr55OilxF5cfiTXXmLCjli9hDAAMV8A9Q==
+  </data>
+ </layer>
+ <layer name="tower" width="15" height="10">
+  <properties>
+   <property name="isTower" value="true"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFjCSKU9uewWYuNcwDAAasAAY=
+  </data>
+ </layer>
+ <layer name="tree" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYWBgYEHCDDj42AALDja6GejmorNxmYFNHSE3EQPw6cVnPjFuxqaGWHdg8ysxYY9PDN0c9Dgh5D5CcYxNHQgAAAF3AMU=
+  </data>
+ </layer>
+ <objectgroup name="对象层 1">
+  <object gid="5" x="-74" y="514"/>
+  <object gid="5" x="962" y="322"/>
+ </objectgroup>
+</map>

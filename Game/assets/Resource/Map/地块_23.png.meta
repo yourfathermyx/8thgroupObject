@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0856c8c8-6b2d-4eab-abcf-3538f303ba12",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "地块_23": {
+      "ver": "1.0.4",
+      "uuid": "b731d93d-d303-42be-930e-129c7be93998",
+      "rawTextureUuid": "0856c8c8-6b2d-4eab-abcf-3538f303ba12",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
