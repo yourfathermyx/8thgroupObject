@@ -7,3 +7,5 @@
 版本更新报告：https://docs.qq.com/doc/DYmdLSE5kWXp5dUhZ    [version 2.0]
 
 项目需求文档2.0：https://docs.qq.com/doc/DYkp2dkZLYnNkcFBn
+
+（项目有过较大更新，UI变动较大，所以代码经整合后由组长上传）
